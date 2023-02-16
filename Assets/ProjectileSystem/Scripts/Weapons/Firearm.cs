@@ -2,7 +2,6 @@ using UnityEngine;
 
 public class Firearm : MonoBehaviour, IUsableTool
 {
-    [SerializeField] bool isAutomatic = true;
     [SerializeField] float roundDelay = 0.5f;
     [SerializeField] Transform barrelEnd;
     [SerializeField] Transform projectile;

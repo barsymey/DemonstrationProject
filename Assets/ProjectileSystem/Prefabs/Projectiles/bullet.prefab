@@ -295,9 +295,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   initialSpeed: 1000
-  mass: 100
-  aerodynamicCoefficient: 100
-  aerodynamicResistance: 1
+  mass: 10
+  aerodynamicCoefficient: 1
+  aerodynamicResistance: 10
   lifetime: 3
   spreadAngle: 1
   ricochetAngle: 45
